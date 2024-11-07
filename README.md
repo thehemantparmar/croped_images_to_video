@@ -1,4 +1,4 @@
-# cropped_images_to_video
+# cropped images to video
 This python project to crop multiple image and combine in to video with sound.
 For croping and save images Pillow library used and for video conversion ffmpeg used.
 
