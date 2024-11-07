@@ -1,2 +1,2 @@
 # croped_images_to_video
-This python project to crop images and combine in to video with sound
+This python project to crop multiple image and combine in to video with sound.
